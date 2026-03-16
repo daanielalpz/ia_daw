@@ -58,11 +58,10 @@
 - Ejemplos de uso: Chatbots en páginas web, reconocimiento de imágenes en el navegadory aplicaciones web inteligentes
 
 ## 4) Relación entre sectores, tipo de IA y lenguaje
-| Sector | Aplicación de IA | Tipo de IA/técnica | Lenguaje recomendado | Justificación |
-|--------|------------------|--------------------|----------------------|---------------|
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
-|        |                  |                    |                      |               |
+| Sector    | Aplicación de IA             | Tipo de IA/técnica       | Lenguaje recomendado | Justificación                         |
+|-----------|------------------------------|--------------------------|----------------------|---------------------------------------|
+| Salud     | Análisis de imágenes médicas | Machine Learning         | Python               |Muchas librerías para análisis de datos|   
+| Comercio  | Recomendación de productos   | Sistemas de recomendación| Phyton               |Muy usado para analizar comportamiento |    | Transporte| Conducción autónoma          | Visión artificial        | C++                  |Permite trabajar con sistemas rápidos  |                     
 
 ## 5) Diagrama (ASCII o Mermaid)
 (Pega aquí el diagrama)
