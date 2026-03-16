@@ -67,15 +67,15 @@
 (Pega aquí el diagrama)
 
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: Uso de datos personales incorrectos.
+- Mitigación 1: Aplicar leyes de protección de datos.
+- Riesgo 2: Errores en sistemas automáticos.
+- Mitigación 2: Supervisión humana y pruebas antes de usar los sistemas.
 
 ## 7) Conclusión
-- Qué sectores destacan más:
-- Qué lenguajes aparecen con más frecuencia:
-- Qué importancia tiene esto para DAW/DAM:
+- Qué sectores destacan más: La salud, el comercio online y el transporte son sectores donde la IA se usa bastante.
+- Qué lenguajes aparecen con más frecuencia: Python es uno de los más utilizados para IA.
+- Qué importancia tiene esto para DAW/DAM: Es importante porque como desarrolladores podemos crear aplicaciones que usen IA para mejorar servicios y automatizar tareas.
 
 ## 8) Fuentes oficiales (mín. 2)
 - Fuente 1 (sectores / aplicación IA):
