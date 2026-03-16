@@ -78,5 +78,5 @@
 - Qué importancia tiene esto para DAW/DAM: Es importante porque como desarrolladores podemos crear aplicaciones que usen IA para mejorar servicios y automatizar tareas.
 
 ## 8) Fuentes oficiales (mín. 2)
-- Fuente 1 (sectores / aplicación IA):
-- Fuente 2 (lenguajes / ecosistema técnico):
+- Fuente 1 (sectores / aplicación IA): Comisión Europea – Inteligencia Artificial
+- Fuente 2 (lenguajes / ecosistema técnico): Documentación oficial de Python y TensorFlow
