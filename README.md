@@ -8,28 +8,28 @@
 ## 2) Sectores con implantación relevante de IA
 
 ### Sector 1
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector: Salud
+- Tipo de empresa/servicio: Hospitales, clínicas y centros médicos.
+- Aplicación de IA: Análisis de imágen para detectar enfermedades.
+- Qué tarea mejora o automatiza: Ayuda a los médicos a detectar problemas.
+- Por qué la IA tiene implantación relevante en este sector: Porque puede analizar muchos datos médicos muy rápido y ayudar a los médicos a tomar decisiones.
+- Beneficios que aporta: Diagnósticos más rápidos, ayuda a los médicos y puede detectar enfermedades antes.
 
 ### Sector 2
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector: Comercio electrónico
+- Tipo de empresa/servicio: Tiendas online y plataformas de venta.
+- Aplicación de IA: Recomendaciones de productos.
+- Qué tarea mejora o automatiza: Analiza lo que compra o mira el usuario y recomienda productos.
+- Por qué la IA tiene implantación relevante en este sector: Porque las empresas quieren mejorar la experiencia del cliente y vender más.
+- Beneficios que aporta: Recomendaciones personalizadas, mejora la experiencia del usuario y aumenta las ventas.
 
 ### Sector 3
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector: Transporte
+- Tipo de empresa/servicio: Empresas de transporte, coches inteligentes y navegación.
+- Aplicación de IA: Sistemas de conducción autónoma y rutas inteligentes.
+- Qué tarea mejora o automatiza: Ayuda a calcular las mejores rutas o incluso a conducir automáticamente.
+- Por qué la IA tiene implantación relevante en este sector: Porque puede mejorar la seguridad y hacer el transporte más eficiente.
+- Beneficios que aporta: Menos accidentes, rutas más rápidas y mejor gestión del tráfico.
 
 ## 3) Lenguajes de programación en IA
 
