@@ -55,11 +55,11 @@ Riesgo 2: Privacidad de datos de usuarios (clics y navegación)
 - Mitigación 2: Anonimización de datos y cumplimiento de GDPR
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
-- Importancia actual (hoy):
-- Importancia futura (3–5 años):
-- Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):
-- Conclusión razonada:
+- Importancia actual (hoy): La IA permite optimizar decisiones en tiempo real, mejorar eficiencia operativa y reducir costes, como en la predicción de demanda, mantenimiento predictivo o detección de fraude. Incrementa la productividad y soporta la toma de decisiones basada en datos.
+- Importancia futura (3–5 años): Se espera que la IA evolucione hacia modelos generativos, agentes autónomos y sistemas de recomendación más inteligentes que integren múltiples fuentes de datos. La automatización avanzada permitirá decisiones complejas sin intervención humana constante.
+- Condiciones/limitaciones: Se requiere calidad y cantidad de datos suficiente, inversión tecnológica, cumplimiento de regulaciones y auditorías éticas. El impacto en empleo puede ser mitigado mediante formación y supervisión humana.
+- Conclusión razonada: La IA es crítica para la competitividad empresarial, y su valor crecerá conforme se integren más fuentes de datos y sistemas autónomos, siempre que se gestionen riesgos de sesgo, privacidad y costes.
 
 ## 9) Fuentes oficiales (mín. 2)
-- Big Data/analítica (enlace oficial):
-- IA/técnica/modelo (enlace oficial):
+- Big Data/analítica (enlace oficial): https://www.oracle.com/big-data/what-is-big-data/
+- IA/técnica/modelo (enlace oficial): https://www.ibm.com/topics/artificial-intelligence
