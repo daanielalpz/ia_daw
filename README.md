@@ -23,10 +23,10 @@ Explica el flujo de forma ordenada:
 - Análisis/BI (opcional): Visualizaciones de tendencias de demanda y correlación con campañas de marketing
 
 ## 4) IA aplicada: modelo y decisión
-- Tipo de IA/técnica (clasificación, predicción, recomendación, anomalías, NLP...):
-- Entrada del modelo (qué datos usa):
-- Salida del modelo (qué produce):
-- Decisión que habilita (qué hace la empresa con esa salida):
+- Tipo de IA/técnica: Predicción (forecasting) mediante modelos de series temporales y XGBoost
+- Entrada del modelo (qué datos usa): Historial de ventas, clics, promociones, stock disponible
+- Salida del modelo (qué produce): Predicción de demanda futura por producto y región
+- Decisión que habilita (qué hace la empresa con esa salida): Ajusta inventario y pedidos de proveedores para maximizar ventas y minimizar exceso de stock
 
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
 KPI 1 (ingresos/coste/eficiencia):
