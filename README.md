@@ -21,9 +21,13 @@
 
 ## 3) DESPUÉS (con IA)
 - ¿Qué automatiza la IA?
+  La IA lee el ticket y lo clasifica automáticamente, también le pone prioridad
 - ¿Qué queda para humanos?
-- Datos necesarios (tipos de datos, sin datos personales):
+   Revisar que esté bien y solucionar los problemas
+- Datos necesarios (tipos de datos, sin datos personales)
+  Texto de tickets, tipos de incidencias e historial de casos
 - Modelo/técnica (NLP, clasificación, recomendación, visión, etc.):
+  NLP (procesamiento de lenguaje natural)
 
 ## 4) Optimización (mejora medible)
 Define 3 métricas con valores antes/después:
