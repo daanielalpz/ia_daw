@@ -31,9 +31,9 @@
 
 ## 4) Optimización (mejora medible)
 Define 3 métricas con valores antes/después:
-- Tiempo:
-- Coste:
-- Calidad:
+- Tiempo: Antes: 10–15 min y Después: 1–2 min
+- Coste: Antes: más tiempo de técnicos y Después: menos tiempo → menos coste
+- Calidad: Antes: bastantes fallos y Después: más acierto (sobre 90%)
 
 ## 5) Diagrama del flujo (ASCII o Mermaid)
 (Pega aquí el diagrama)
