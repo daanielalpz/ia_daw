@@ -29,20 +29,20 @@ Explica el flujo de forma ordenada:
 - Decisión que habilita (qué hace la empresa con esa salida): Ajusta inventario y pedidos de proveedores para maximizar ventas y minimizar exceso de stock
 
 ## 5) Rentabilidad: KPIs antes/después (mínimo 3)
-KPI 1 (ingresos/coste/eficiencia):
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 1 (rotura de stock):
+- Antes: 12% de productos agotados
+- Después: 4% de productos agotados
+- Por qué mejora la rentabilidad: Más productos disponibles → más ventas concretadas
 
-KPI 2:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 2 (exceso de inventario):
+- Antes: 15% de productos con stock sobrante al final de temporada
+- Después: 6% de productos con stock sobrante
+- Por qué mejora la rentabilidad: Menos costes de almacenamiento y menor pérdida por liquidación
 
-KPI 3:
-- Antes:
-- Después:
-- Por qué mejora la rentabilidad:
+KPI 3 (ventas totales):
+- Antes: 10 M€ anuales
+- Después: 11,5 M€ anuales
+- Por qué mejora la rentabilidad: Predicción precisa permite ajustar oferta y aumentar ingresos
 
 ## 6) Diagrama del pipeline (ASCII o Mermaid)
 (Pega aquí el diagrama)
