@@ -36,13 +36,14 @@ Define 3 métricas con valores antes/después:
 - Calidad: Antes: bastantes fallos y Después: más acierto (sobre 90%)
 
 ## 5) Diagrama del flujo (ASCII o Mermaid)
-(Pega aquí el diagrama)
+<img width="898" height="771" alt="image" src="https://github.com/user-attachments/assets/04e366ae-3bf1-4bfa-b569-7a6aa88508b3" />
+
 
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: Que la IA se equivoque
+- Mitigación 1: Que un humano revise los casos importantes
+- Riesgo 2: Depender demasiado de la IA
+- Mitigación 2: Poder hacerlo manual si falla
 
 ## 7) Fuente oficial
-- Enlace: 
+- Enlace: https://cloud.google.com/ai/docs
