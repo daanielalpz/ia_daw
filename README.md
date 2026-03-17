@@ -48,11 +48,11 @@ KPI 3 (ventas totales):
 (Pega aquí el diagrama)
 
 ## 7) Riesgos y mitigación
-Riesgo 1:
-- Mitigación 1:
+Riesgo 1: Sesgo en los datos históricos → predicciones erróneas
+- Mitigación 1: Auditoría periódica de datos y ajuste de modelos según eventos atípicos
 
-Riesgo 2:
-- Mitigación 2:
+Riesgo 2: Privacidad de datos de usuarios (clics y navegación)
+- Mitigación 2: Anonimización de datos y cumplimiento de GDPR
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
 - Importancia actual (hoy):
