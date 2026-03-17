@@ -8,11 +8,11 @@
 
 ## 2) Big Data: recogida masiva de datos
 Describe por qué es Big Data (volumen, velocidad, variedad).
-- Fuente 1:
-- Fuente 2:
-- Fuente 3:
-- Volumen/velocidad (estimación):
-- Formatos (texto, eventos, series temporales, imágenes, etc.):
+- Fuente 1: Historial de ventas online (volumen: millones de transacciones anuales)
+- Fuente 2: Datos de navegación y clics de usuarios en la web/app (velocidad: flujo en tiempo real)
+- Fuente 3: Datos de proveedores y logística (variedad: CSV, APIs, ERP)
+- Volumen/velocidad (estimación): ~5 TB mensuales, actualización diaria y en tiempo real de clicks
+- Formatos (texto, eventos, series temporales, imágenes, etc.): CSV, JSON, logs de eventos, series temporales de ventas
 
 ## 3) Tratamiento/análisis: pipeline de datos
 Explica el flujo de forma ordenada:
