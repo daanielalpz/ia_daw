@@ -3,18 +3,21 @@
 
 ## 1) Proceso elegido
 - Nombre del proceso: Gestión de tickets de soporte
-- Contexto (empresa/servicio web/IT):Empresa de informática que da soporte a usuarios
+- Contexto (empresa/servicio web/IT): Empresa de informática que da soporte a usuarios
 - Rol/es implicados: Técnicos de soporte y equipo IT
 
 ## 2) ANTES (sin IA)
 - Pasos (5–7):
-  1.
-  2.
-  3.
-  4.
-  5.
-- Tiempo aproximado por caso:
-- Problemas / cuellos de botella:
+  1.El usuario manda un ticket por email o web
+  2.Un técnico lo lee
+  3.Decide de qué tipo es el problema
+  4.Le pone prioridad
+  5.Lo envía al equipo correspondiente
+  6.El equipo lo revisa
+  7.Empiezan a arreglarlo
+  
+- Tiempo aproximado por caso: 10 o 15 minutos
+- Problemas / cuellos de botella: A veces se clasifican mal los tickets, se tarda mucho cuando hay muchos, no siempre se les da bien la prioridad y mucho trabajo manual
 
 ## 3) DESPUÉS (con IA)
 - ¿Qué automatiza la IA?
